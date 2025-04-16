@@ -1,9 +1,6 @@
-import React from 'react'; // Good practice to import React
 
 const HomePage = () => {
-  // Define accent color class once for easy changes
-  const accentColor = "text-cyan-400"; // Example: Using cyan-400. Choose your preferred color!
-  const accentHoverColor = "hover:text-cyan-300"; // Example hover effect
+  
 
   return (
     // Adjusted Padding: Reduced overall padding, more vertical than horizontal.
